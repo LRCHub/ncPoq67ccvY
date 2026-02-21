@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "UNLIMITED IMPACT",
+  "base_artist": "アグネスデジタル (CV. 鈴木みのり)、シンコウウインディ (CV. 高田憂希)、スマートファルコン (CV. 大和田仁美)、ハルウララ (CV. 首藤志奈)",
+  "createdAt": "2026-02-21T12:23:16.946202Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "UNLIMITED IMPACT (2021 Remastered Version)",
+      "artist": "マルゼンスキー",
+      "has_synced": false,
+      "path": "select/01_UNLIMITED_IMPACT_(2021_Remastered_Version)_マルゼンスキー.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "UNLIMITED IMPACT",
+      "artist": "マルゼンスキー (CV.Lynn)、フジキセキ (CV.松井恵理子)、オグリキャップ (CV.高柳知菜)",
+      "has_synced": true,
+      "path": "select/02_UNLIMITED_IMPACT_マルゼンスキー_(CV.Lynn)、フジキセキ_(CV.松井恵理子)、オグリキャップ_(CV.高柳知菜).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "UNLIMITED IMPACT",
+      "artist": "マルゼンスキー",
+      "has_synced": true,
+      "path": "select/03_UNLIMITED_IMPACT_マルゼンスキー.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "UNLIMITED IMPACT (2021 Remastered Version)",
+      "artist": "マルゼンスキー(CV.Lynn)、フジキセキ(CV.松井恵理子)、オグリキャップ(CV.高柳知葉)",
+      "has_synced": true,
+      "path": "select/04_UNLIMITED_IMPACT_(2021_Remastered_Version)_マルゼンスキー(CV.Lynn)、フジキセキ(CV.松井恵理子)、オグリキャップ(CV.高柳知葉).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "UNLIMITED IMPACT",
+      "artist": "マルゼンスキー (Lynn), フジキセキ (松井恵理子), オグリキャップ (高柳知葉)",
+      "has_synced": true,
+      "path": "select/05_UNLIMITED_IMPACT_マルゼンスキー_(Lynn),_フジキセキ_(松井恵理子),_オグリキャップ_(高柳知葉).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "UNLIMITED IMPACT (2021 Remastered Version)",
+      "artist": "マルゼンスキー (CV. Lynn)、フジキセキ (CV. 松井恵理子)、オグリキャップ (CV. 高柳知葉)",
+      "has_synced": true,
+      "path": "select/06_UNLIMITED_IMPACT_(2021_Remastered_Version)_マルゼンスキー_(CV._Lynn)、フジキセキ_(CV._松井恵理子)、オグリキャップ_(CV._高柳知葉).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "UNLIMITED IMPACT",
+      "artist": "Agnes Digital (CV: Minori Suzuki)",
+      "has_synced": true,
+      "path": "select/07_UNLIMITED_IMPACT_Agnes_Digital_(CV__Minori_Suzuki).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "UNLIMITED IMPACT",
+      "artist": "マルゼンスキー (CV. Lynn)、 フジキセキ (CV. 松井恵理子)、オグリキャップ (CV. 高柳知葉)",
+      "has_synced": true,
+      "path": "select/08_UNLIMITED_IMPACT_マルゼンスキー_(CV._Lynn)、_フジキセキ_(CV._松井恵理子)、オグリキャップ_(CV._高柳知葉).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "UNLIMITED IMPACT",
+      "artist": "アグネスデジタル (CV.鈴木みのり)、シンコウウインディ (CV. 高田憂希)、スマートファルコン (CV. 大和田仁美)、ハルウララ (CV. 首藤志奈)",
+      "has_synced": false,
+      "path": "select/pl_01_UNLIMITED_IMPACT_アグネスデジタル_(CV.鈴木みのり)、シンコウウインディ_(CV._高田憂希)、スマートファルコン_(CV._大和田仁美)、ハルウララ_(CV._首藤志奈).txt"
+    }
+  ]
+}
